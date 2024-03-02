@@ -1,4 +1,4 @@
- package CODSOFT;
+package CODSOFT;
 import java.util.*;
 public class Task1 {
     public static void main(String[] args) {
@@ -33,7 +33,7 @@ while(life>0){
     choice=sc.nextInt();
 
     }
-
+sc.close();
     
 }
 
